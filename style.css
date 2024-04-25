@@ -1,0 +1,21 @@
+
+/* B E M */
+.noticia {
+    background: #ffc0cb;
+}
+
+.noticia__titulo {
+   font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.noticia--deporte {
+    background: blue;
+}
+
+.noticia__titulo--uppercase {
+
+    text-transform: uppercase;
+}
+
+/* S U I T C S S */
